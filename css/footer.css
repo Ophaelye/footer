@@ -1,4 +1,4 @@
-nav {
+footer {
   display: flex;
   justify-content: space-around;
   background-color: black;
@@ -15,7 +15,7 @@ div {
   }
 
 @media (max-width: 640px){
-nav {
+footer {
   flex-direction: column;
 }
 }
